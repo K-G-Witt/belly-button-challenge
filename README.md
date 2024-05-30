@@ -41,13 +41,13 @@ For each sample, a bubble plot displays the OTU identifier and sample value for 
 This code was compiled and written by me for the belly-button-challenge challenge class homework in the 2024 Data Analytics Boot Camp hosted by Monash University. Additional credits are declared below:
 
 ### Belly Button Biodiversity Study Reference:
-Hulcr J., Latimer AM., Henley J., et al. (2012). A jungle in there: Bacteria in belly buttons are highly diverse, but predictable. PLoS One, 7(11), e47712. Accessed 30 May 2024 from: https://doi.org/10.1371/journal.pone.0047712 
+Hulcr J., Latimer AM., Henley J., et al. (2012). A jungle in there: Bacteria in belly buttons are highly diverse, but predictable. PLoS One, 7(11), e47712. Accessed 27 May 2024 from: https://doi.org/10.1371/journal.pone.0047712 
 
 ### Basic plotly documentation:
 https://plotly.com/javascript/. Accessed 27 May 2024.
 
 ### Creating bubble plots using plotly:
-ttps://plotly.com/javascript/bubble-charts/ vaScript (plotly.com). Accessed 28 May 2024.
+ttps://plotly.com/javascript/bubble-charts/. Accessed 28 May 2024.
 
 ### Creating horizonal bar charts using plotly:
 https://plotly.com/javascript/horizontal-bar-charts/ JavaScript (plotly.com). Accessed 28 May 2024.
@@ -55,5 +55,8 @@ https://plotly.com/javascript/horizontal-bar-charts/ JavaScript (plotly.com). Ac
 ### Object.entries() function:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries. Accessed 28 May 2024.
 
+### init() function:
+https://stackoverflow.com/questions/7884081/what-is-the-use-of-the-init-usage-in-javascript. Accessed 29 May 2024.
+
 ### JavaScript colour scales:
-https://plotly.com/javascript/colorscales/. Accessed 28 May 2024.
+https://plotly.com/javascript/colorscales/. Accessed 29 May 2024.
