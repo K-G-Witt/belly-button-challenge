@@ -12,6 +12,7 @@ Within the **Starter_Code** subfolder:
 2. **index.html:** a starter browser in which the interactive dashboard is built and displayed
 
 Within the **Starter_Code/static/js** subfolder:
+ 
 3. **app.js:** contains the .js code called by the **index.html** page to build and display the interactive dashboard 
 
 
