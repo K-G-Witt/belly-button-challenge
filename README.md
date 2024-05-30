@@ -1,5 +1,6 @@
 # belly-button-challenge
 Data from the Belly Button Biodiversity Study which sampled the skin microbiota of the belly buttons from 60 healthy volunteers between January and February 2011. Specific details on the methods used to sample skin microbiota, amplify the samples obtained, and to sequence the genome of the samples to identify the specific microbiomes found are reported in the original study by Hulcr et al., 2012 (see Credits for the full reference).
+
 Overall, Hulcr et al. found that 8 microbial species (termed operational taxonomic units, or OTUs, in the study) were present in more than 70% of people. These were dominated by Staphylococci, Corynebacteria, and several genera of Actinobacteria amongst others. The remaining OTUs found were rarer.
 
 
